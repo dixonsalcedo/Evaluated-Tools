@@ -1,0 +1,55 @@
+Inicia Archivo. 
+El comando <<  ./pathload_rcv -s colombia  >>-- se ejecutará  100000  veces
+
+
+Receiver CUBA starts measurements at sender colombia on Wed Nov 27 21:12:12 2013 
+Receiving Fleet 0, Rate 92.58Mbps
+Receiving Fleet 1, Rate 46.30Mbps
+Receiving Fleet 2, Rate 69.45Mbps
+Receiving Fleet 3, Rate 57.85Mbps
+Receiving Fleet 4, Rate 63.60Mbps
+Receiving Fleet 5, Rate 66.50Mbps
+
+	*****  RESULT *****
+Available bandwidth range : 66.50 - 66.50 (Mbps)
+Measurements finished at Wed Nov 27 21:12:18 2013 
+Measurement latency is 5.78 sec 
+--- Finaliza iteración ---
+--- Finaliza iteración ---
+
+
+Receiver CUBA starts measurements at sender colombia on Wed Nov 27 21:13:18 2013 
+Receiving Fleet 0, Rate 95.98Mbps
+Receiving Fleet 1, Rate 48.00Mbps
+Receiving Fleet 2, Rate 72.00Mbps
+Receiving Fleet 3, Rate 84.00Mbps
+Receiving Fleet 4, Rate 78.00Mbps
+Receiving Fleet 5, Rate 75.00Mbps
+Receiving Fleet 6, Rate 60.00Mbps
+Receiving Fleet 7, Rate 66.00Mbps
+Receiving Fleet 8, Rate 63.00Mbps
+
+	*****  RESULT *****
+Available bandwidth range : 66.00 - 72.00 (Mbps)
+Measurements finished at Wed Nov 27 21:13:26 2013 
+Measurement latency is 8.66 sec 
+--- Finaliza iteración ---
+--- Finaliza iteración ---
+
+
+Receiver CUBA starts measurements at sender colombia on Wed Nov 27 21:14:26 2013 
+Receiving Fleet 0, Rate 91.22Mbps
+Receiving Fleet 1, Rate 45.60Mbps
+Receiving Fleet 2, Rate 68.40Mbps
+Receiving Fleet 3, Rate 79.80Mbps
+Receiving Fleet 4, Rate 74.10Mbps
+Receiving Fleet 5, Rate 71.25Mbps
+Receiving Fleet 6, Rate 57.00Mbps
+Receiving Fleet 7, Rate 62.70Mbps
+Receiving Fleet 8, Rate 65.55Mbps
+
+	*****  RESULT *****
+Available bandwidth range : 65.60 - 68.40 (Mbps)
+Measurements finished at Wed Nov 27 21:14:35 2013 
+Measurement latency is 8.66 sec 
+--- Finaliza iteración ---

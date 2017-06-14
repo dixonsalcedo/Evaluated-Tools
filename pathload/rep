@@ -1,0 +1,4 @@
+sh pathload_rcv -s colombia -o gj.txt
+sh pathload_rcv -s colombia -O gj.txt
+
+
